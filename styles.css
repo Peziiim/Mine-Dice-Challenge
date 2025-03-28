@@ -63,14 +63,14 @@ footer {
 }
 
 button {
-  height: 100px;
-  width: 250px;
+  height: 50px;
+  width: 100px;
   border-radius: 30px;
   border: transparent;
   background-color: #212121;
   color: white;
   text-shadow: 0 0 9px black;
-  font-size: 3rem;
+  font-size: 1.5rem;
   font-weight: 700;
   cursor: pointer;
 }
@@ -97,14 +97,16 @@ button {
 }
 
 .images img {
-  width: 20px;
-  height: 20px;
+  width: 70px;
+  height: 70px;
 }
 
 h5 {
   color: white;
   font-family: "Minecraftia-Regular";
   font-size: 1.2rem;
+  margin: 20px 10px 10px 10px;
+  
 }
 
 @media (max-width: 990px) {

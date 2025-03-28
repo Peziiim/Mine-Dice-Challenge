@@ -20,9 +20,9 @@ if (randomNumber2 == 0) {
 
 
 if (randomNumber > randomNumber2) {
-    text.textContent = "Player1 Won!!"
+    text.textContent = "Player1  Won!!"
 } else if(randomNumber2 > randomNumber) {
-    text.textContent = "Player2 Won!!"
+    text.textContent = "Player2  Won!!"
 } else {
      text.textContent = "Draw!!"
 }
